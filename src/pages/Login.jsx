@@ -26,7 +26,7 @@ const Login = () => {
         navigate('/home');
       }
     } catch (error) {
-      alert('Login failed! ' + (error.response?.data?.message || 'An error occurred'));
+      alert('Login failed!' + (error.response?.data?.message || 'An error occurred'));
     }
   };
 
