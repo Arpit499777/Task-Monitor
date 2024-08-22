@@ -1,0 +1,33 @@
+{
+    "routes": [
+      {
+        "route": "/",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/registration",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/home",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/help",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/account",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/company",
+        "rewrite": "/index.html"
+      },
+      {
+        "route": "/project",
+        "rewrite": "/index.html"
+      }
+    ]
+  }
+  
